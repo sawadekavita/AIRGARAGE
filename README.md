@@ -21,7 +21,11 @@ npm run start
 
 CONTRIBUTERS:
 1.Kavita kharat
+
 2.Aman yadav
+
 3.Channa keshava
+
 4.Shivang
+
 5.Sandeep Prajapati
