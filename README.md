@@ -13,5 +13,6 @@ Features
     Selecting Parking Slots.
 
 HOW TO RUN A PROJECT?
+
 npm install
 npm run start
