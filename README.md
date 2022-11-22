@@ -4,8 +4,9 @@ Air Garage Clone
 AirGarage enables churches and businesses with extra spaces to rent them out to drivers on-demand and boost their bottom line.
 Tech Stack
 
-Client: Hml, Css, Java-Script
-Features
+CLIENT: Html, Css, Java-Script
+
+FEATURES:
 
     Log in.
     Sign up .
@@ -15,4 +16,5 @@ Features
 HOW TO RUN A PROJECT?
 
 npm install
+
 npm run start
