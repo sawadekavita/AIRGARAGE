@@ -12,14 +12,9 @@ FEATURES:
     Sign up .
     Find Parking.
     Selecting Parking Slots.
-
-HOW TO RUN A PROJECT?
-
-npm install
-
-npm run start
-
+    
 CONTRIBUTERS:
+
 1.Kavita kharat
 
 2.Aman yadav
@@ -29,3 +24,11 @@ CONTRIBUTERS:
 4.Shivang
 
 5.Sandeep Prajapati
+
+
+HOW TO RUN A PROJECT?
+
+npm install
+
+npm run start
+
