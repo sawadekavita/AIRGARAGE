@@ -4,16 +4,16 @@ Air Garage Clone
 AirGarage enables churches and businesses with extra spaces to rent them out to drivers on-demand and boost their bottom line.
 Tech Stack
 
-CLIENT: Html, Css, Java-Script
+#CLIENT: Html, Css, Java-Script
 
-FEATURES:
+#FEATURES:
 
     Log in.
     Sign up .
     Find Parking.
     Selecting Parking Slots.
     
-CONTRIBUTERS:
+#CONTRIBUTERS:
 
 1.Kavita kharat
 
@@ -26,7 +26,7 @@ CONTRIBUTERS:
 5.Sandeep Prajapati
 
 
-HOW TO RUN A PROJECT?
+#HOW TO RUN A PROJECT?
 
 npm install
 
