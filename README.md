@@ -12,6 +12,3 @@ Features
     Find Parking.
     Selecting Parking Slots.
 
-Screenshots
-
-App Screenshot App Screenshot App Screenshot
